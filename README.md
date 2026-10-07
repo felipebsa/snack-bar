@@ -1,4 +1,4 @@
-# 🥪 Snack Bar System
+# Snack Bar System
 
 A command-line system to manage a snack bar: product registration, stock control, orders, and sales reports. Built in pure Python (standard library only), with data persisted in a JSON file.
 
